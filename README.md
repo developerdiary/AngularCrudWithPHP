@@ -3,10 +3,10 @@
 
 ## Use following library yo create this application
 
-* <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
-* <script src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-* <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
-* <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js"></script>
+* //maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css
+* //code.jquery.com/jquery-1.10.2.min.js
+* //maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js
+* https://ajax.googleapis.com/ajax/libs/angularjs/1.6.6/angular.min.js
 
 
 ### app.js
