@@ -1,7 +1,7 @@
 # AngularCrudWithPHP
 
 
-## Use following library yo create this application
+## Use following library to create this application
 
 * //maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css
 * //code.jquery.com/jquery-1.10.2.min.js
