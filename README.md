@@ -82,5 +82,5 @@ app.controller('controller', function($scope, $http){
 
 ```
 
-## For understanding better way we create article. You can [click here](https://github.com/developerdiary/AngularCrudWithPHP)
+## For understanding better way we create article. You can [click here](http://www.developerdiary.in/anuglarjs/crud-application-angularjsphp-mysql/)
 
